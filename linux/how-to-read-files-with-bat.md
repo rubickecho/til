@@ -8,7 +8,7 @@ cat 的复制品，外加语法高亮和 Git 集成。
 
 更多信息：https://github.com/sharkdp/bat.
 
-## How to use
+## How do I use it?
 
 1. Install Command
 ```shell
