@@ -1,5 +1,5 @@
 
-# How to read files with bat
+# tldr command
 
 ## What is tldr
 简化过的 man 帮助手册。
