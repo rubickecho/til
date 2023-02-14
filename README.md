@@ -11,10 +11,12 @@
 
 ## Categories
 
-[Linux](#linux)
-[Playwright](#playwright)
-[HTML](#html)
-[Nginx](#nginx)
+- [TIL](#til)
+  - [Categories](#categories)
+    - [Linux](#linux)
+    - [Playwright](#playwright)
+    - [HTML](#html)
+    - [Nginx](#nginx)
 
 ---
 
