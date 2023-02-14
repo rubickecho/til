@@ -2,12 +2,7 @@
 
 > Today I Learned
 
-关于我每天学习到的一些东西的整理
-
-偶然间有读到 Josh Branchaud 的 [Learning In
-Public™](https://dev.to/jbranchaud/how-i-built-a-learning-machine-45k9)，以及 [jbranchaud/til](https://github.com/jbranchaud/til)
-
-我开始思考应该怎么样去保持学习并整理，Josh Branchaud 的 TIL 鼓励了我，so right here
+关于我每天学习到的一些东西的整理，有一段时间我一直在思考如何维持学习与整理，而偶然间我读到了 Josh Branchaud 的 [Learning In Public™](https://dev.to/jbranchaud/how-i-built-a-learning-machine-45k9) 以及 [jbranchaud/til](https://github.com/jbranchaud/til)，这让我受到了很大的鼓舞，于是我决定开始一个新的学习习惯，也就是每天都会通过整理的形式来记录我学习到的东西，以便能够更好的梳理思维、建立知识体系，并能够以后更快的复习。
 
 - Writing daily TIL posts became a habit that I could stick with.
 - Writing daily TIL posts accelerated my learning and overall trajectory as a developer.
@@ -18,6 +13,8 @@ Public™](https://dev.to/jbranchaud/how-i-built-a-learning-machine-45k9)，以�
 
 [Linux](#linux)
 [Playwright](#playwright)
+[HTML](#html)
+[Nginx](#nginx)
 
 ---
 
@@ -30,3 +27,11 @@ Public™](https://dev.to/jbranchaud/how-i-built-a-learning-machine-45k9)，以�
 
 - [fixtures](playwright/what-is-fixtures.md)
 - [learn todolist](playwright/learn-todolist.md)
+
+### HTML
+
+- [html](html/iframe-referrerpolicy.md)
+
+### Nginx
+
+- [nginx](linux/alias-vs-root.md)
