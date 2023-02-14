@@ -27,13 +27,13 @@
 
 ### Playwright
 
-- [fixtures](playwright/what-is-fixtures.md)
+- [what-is-fixtures](playwright/what-is-fixtures.md)
 - [learn todolist](playwright/learn-todolist.md)
 
 ### HTML
 
-- [html](html/iframe-referrerpolicy.md)
+- [iframe-referrerpolicy](html/iframe-referrerpolicy.md)
 
 ### Nginx
 
-- [nginx](linux/alias-vs-root.md)
+- [alias-vs-root](linux/alias-vs-root.md)
