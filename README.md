@@ -36,4 +36,4 @@
 
 ### Nginx
 
-- [alias-vs-root](linux/alias-vs-root.md)
+- [alias-vs-root](nginx/alias-vs-root.md)
