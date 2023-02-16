@@ -30,6 +30,6 @@ location /img/ {
 ```
 
 ## 参考资源
-[nginx-tutorial](https://wangchujiang.com/nginx-tutorial/)
-[nginx-static-file-serving-confusion-with-root-alias](https://stackoverflow.com/questions/10631933/nginx-static-file-serving-confusion-with-root-alias)
+- [nginx-tutorial](https://wangchujiang.com/nginx-tutorial/)
+- [nginx-static-file-serving-confusion-with-root-alias](https://stackoverflow.com/questions/10631933/nginx-static-file-serving-confusion-with-root-alias)
 
