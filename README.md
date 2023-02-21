@@ -18,6 +18,7 @@
     - [HTML](#html)
     - [Nginx](#nginx)
     - [Node](#node)
+    - [Javascript](#javascript)
 
 ---
 
@@ -43,3 +44,7 @@
 ### Node
 
 - [yarn-ignore-engines](node/yarn-ignore-engines.md)
+
+### Javascript
+
+- [babel-loose-mode](javascript/babel-loose-mode.md)
