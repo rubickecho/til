@@ -32,6 +32,7 @@
 
 - [what-is-fixtures](playwright/what-is-fixtures.md)
 - [learn todolist](playwright/learn-todolist.md)
+- [event on a disabled element](playwright/event-on-a-disabled-element.md)
 
 ### HTML
 
