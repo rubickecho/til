@@ -29,6 +29,7 @@
 - [bar file](linux/how-to-read-files-with-bat.md)
 - [tldr](linux/tldr.md)
 - [xargs](linux/xargs.md)
+- [cp -l](linux/what-is-cp-l.md)
 
 ### Playwright
 
