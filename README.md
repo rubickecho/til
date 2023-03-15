@@ -21,6 +21,7 @@
     - [Javascript](#javascript)
     - [Monorepo](#monorepo)
     - [Jest](#jest)
+    - [Reading](#reading)
 
 ---
 
@@ -60,3 +61,7 @@
 ### Jest
 
 - [disable-warning](jest/disable-warning.md)
+
+### Reading
+
+- [What distinguishes great software engineers?](reading/what-distinguishes-great-software-engineers.md)
