@@ -22,6 +22,7 @@
     - [Monorepo](#monorepo)
     - [Jest](#jest)
     - [Reading](#reading)
+    - [NextJS](#nextjs)
 
 ---
 
@@ -65,3 +66,7 @@
 ### Reading
 
 - [What distinguishes great software engineers?](reading/what-distinguishes-great-software-engineers.md)
+
+### NextJS
+
+- [how-to-configure-typescript](nextjs/how-to-configure-typescript.md)
