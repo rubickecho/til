@@ -23,6 +23,7 @@
     - [Jest](#jest)
     - [Reading](#reading)
     - [NextJS](#nextjs)
+    - [Vercel](#vercel)
 
 ---
 
@@ -70,3 +71,7 @@
 ### NextJS
 
 - [how-to-configure-typescript](nextjs/how-to-configure-typescript.md)
+
+### Vercel
+
+- [how-to-configure-domain](vercel/how-to-configure-domain.md)
