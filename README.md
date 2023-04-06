@@ -80,4 +80,4 @@
 
 ### Other
 
-- [what-is-corn](other/what-is-corn.md)
+- [what-is-corn-expressions](other/what-is-corn-expressions.md)
