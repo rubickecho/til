@@ -24,6 +24,7 @@
     - [Reading](#reading)
     - [NextJS](#nextjs)
     - [Vercel](#vercel)
+    - [Other](#other)
 
 ---
 
@@ -76,3 +77,7 @@
 ### Vercel
 
 - [how-to-configure-domain](vercel/how-to-configure-domain.md)
+
+### Other
+
+- [what-is-corn](other/what-is-corn.md)
