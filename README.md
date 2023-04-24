@@ -24,6 +24,7 @@
     - [Reading](#reading)
     - [NextJS](#nextjs)
     - [Vercel](#vercel)
+    - [Git](#git)
     - [Other](#other)
 
 ---
@@ -77,6 +78,10 @@
 ### Vercel
 
 - [how-to-configure-domain](vercel/how-to-configure-domain.md)
+
+### Git
+
+- [How to update the latest commit message in git](git/update-latest-commit-message.md)
 
 ### Other
 
