@@ -54,6 +54,7 @@
 ### Node
 
 - [yarn-ignore-engines](node/yarn-ignore-engines.md)
+- [what-is-dirname](node/what-is-dirname.md)
 
 ### Javascript
 
