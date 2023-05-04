@@ -50,6 +50,7 @@
 ### Nginx
 
 - [alias-vs-root](nginx/alias-vs-root.md)
+- [Nginx location proxy path priority](nginx/location-proxy-path-priority.md)
 
 ### Node
 
