@@ -24,6 +24,7 @@
     - [Reading](#reading)
     - [NextJS](#nextjs)
     - [Vercel](#vercel)
+    - [Git](#git)
     - [Other](#other)
 
 ---
@@ -49,10 +50,12 @@
 ### Nginx
 
 - [alias-vs-root](nginx/alias-vs-root.md)
+- [Nginx location proxy path priority](nginx/location-proxy-path-priority.md)
 
 ### Node
 
 - [yarn-ignore-engines](node/yarn-ignore-engines.md)
+- [what-is-dirname](node/what-is-dirname.md)
 
 ### Javascript
 
@@ -78,6 +81,10 @@
 ### Vercel
 
 - [how-to-configure-domain](vercel/how-to-configure-domain.md)
+
+### Git
+
+- [How to update the latest commit message in git](git/update-latest-commit-message.md)
 
 ### Other
 
