@@ -57,6 +57,7 @@
 ### Javascript
 
 - [babel-loose-mode](javascript/babel-loose-mode.md)
+- [why-const-can-change](javascript/why-const-can-change.md)
 
 ### Monorepo
 
