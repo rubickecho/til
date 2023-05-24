@@ -36,6 +36,7 @@
 - [xargs](linux/xargs.md)
 - [cp -l](linux/what-is-cp-l.md)
 - [tree -L 1 -d ./<DIR>](linux/tree-command.md)
+- [How to compress multiple files](linux/how-to-compress-multiple-files.md)
 
 ### Playwright
 
