@@ -63,6 +63,7 @@
 
 - [babel-loose-mode](javascript/babel-loose-mode.md)
 - [why-const-can-change](javascript/why-const-can-change.md)
+- [How to judge function is native](javascript/fn-is-native.md)
 
 ### Monorepo
 
