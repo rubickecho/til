@@ -65,6 +65,7 @@
 - [why-const-can-change](javascript/why-const-can-change.md)
 - [How to judge function is native](javascript/fn-is-native.md)
 - [Base64 string and object conversion](javascript/base64-string-and-object-conversion.md)
+- [localStorage exceeded the limit.](javascript/localStorage-exceeded-the-limit..md)
 
 ### Monorepo
 
