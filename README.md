@@ -26,6 +26,7 @@
     - [Vercel](#vercel)
     - [Git](#git)
     - [Other](#other)
+    - [Http](#http)
 
 ---
 
@@ -65,7 +66,7 @@
 - [why-const-can-change](javascript/why-const-can-change.md)
 - [How to judge function is native](javascript/fn-is-native.md)
 - [Base64 string and object conversion](javascript/base64-string-and-object-conversion.md)
-- [localStorage exceeded the limit.](javascript/localStorage-exceeded-the-limit..md)
+- [localStorage exceeded the limit](javascript/localStorage-exceeded-the-limit.md)
 
 ### Monorepo
 
@@ -94,3 +95,7 @@
 ### Other
 
 - [what-is-corn-expressions](other/what-is-corn-expressions.md)
+
+### Http
+
+- [can-HTTP-DELETE-request-send-body-data](http/can-HTTP-DELETE-request-send-body-data.md)
