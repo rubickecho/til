@@ -27,6 +27,7 @@
     - [Git](#git)
     - [Other](#other)
     - [Http](#http)
+    - [Python](#python)
 
 ---
 
@@ -100,3 +101,7 @@
 ### Http
 
 - [can-HTTP-DELETE-request-send-body-data](http/can-HTTP-DELETE-request-send-body-data.md)
+
+### Python
+
+- [How to upgrade pip](python/how-to-upgrade-pip.md)
