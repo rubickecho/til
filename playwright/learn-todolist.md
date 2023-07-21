@@ -1,4 +1,4 @@
-# Learn Todo List
+# Playwright learn todo list
 
 今天，我阅读了[#30DaysOfPlaywright!!](https://nitya.github.io/learn-playwright/000-hello-30days/)。作为一个推荐的入门 Playwright Todo List，它提供了特别有用的指导，尤其适用于初学者。该列表有助于更好地理解如何使用 Playwright，它涵盖了一系列常用的任务，从安装到最终的运行测试，都可以帮助初学者更加快速地上手。
  

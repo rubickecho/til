@@ -1,4 +1,4 @@
-# alias vs root
+# Nginx alias vs root
 
 他们都是 nginx 虚拟目录配置，不同的是他们处理路径的方式。
 

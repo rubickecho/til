@@ -1,4 +1,4 @@
-# 如何判断浏览器 localStorage 存储达到上限
+# How to judge that the browser's localStorage storage has reached the upper limit
 
 根据 [MDN](https://developer.mozilla.org/zh-CN/docs/Web/API/Storage/setItem) 的描述，localStorage 存储的上限是 5M，但是实际上不同浏览器的上限是不一样的，比如 Chrome 是 10M，Firefox 是 5M，Safari 是 5M，IE 是 10M。
 

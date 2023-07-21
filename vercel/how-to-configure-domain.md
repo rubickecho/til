@@ -1,4 +1,4 @@
-# Vercel 如何配置 Domain
+# How Vercel configures Domain
 
 ## 具体步骤
 1. 登录 Vercel 帐户，并进入应用程序。

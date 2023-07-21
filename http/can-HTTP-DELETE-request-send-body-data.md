@@ -1,4 +1,4 @@
-# HTTP DELETE 请求可以发送 body 数据吗？
+# Can HTTP DELETE requests send body data?
 
 > ***Anwser From: ChatGPT***
 

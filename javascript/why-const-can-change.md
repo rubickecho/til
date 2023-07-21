@@ -25,3 +25,7 @@ obj.name = 'new name'
 2. Mutation（变更）：变更是改变一个对象或数组的内容的过程。例如，如果你有一个对象 const obj = { a: 1 };，你可以通过 obj.a = 2; 来改变 obj 的属性 a 的值。这是一个变更操作。即使 obj 是一个 const 变量，你仍然可以改变它的属性值，因为这是变更，而不是赋值
 
 `=` 是赋值操作，而 `const` 是用来限制变量的变异操作的，所以当我们说 `const` 声明的变量不能更改，其实说的是不能重新赋值。
+
+## 推荐阅读
+
+- [The “const” Deception](https://www.joshwcomeau.com/javascript/the-const-deception/?from=newsletter)

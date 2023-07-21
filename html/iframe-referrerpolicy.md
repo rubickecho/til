@@ -1,4 +1,4 @@
-# iframe referrerpolicy
+# What is iframe referrerpolicy
 
 ## What?
 `referrerpolicy` 是 `iframe` 属性，可以控制被嵌入的 `iframe` 时发送的 `referrer` 首部，以确保在获取资源时发送出最佳的 `referrer` 信息，提高安全性，防止跨域请求攻击，同时也更好的实现网站的统计和跟踪。
