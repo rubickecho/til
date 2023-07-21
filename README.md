@@ -73,6 +73,7 @@
 ### Monorepo
 
 - [what-is-lerna](monorepo/what-is-lerna.md)
+- [How to run a specific package command with lerna](monorepo/how-to-run-a-specific-package-command-with-lerna.md)
 
 ### Jest
 
