@@ -86,10 +86,12 @@
 ### NextJS
 
 - [How to configure TypeScript in Next.js](nextjs/how-to-configure-typescript.md)
+- [Next.js Dynamic Routes get params](nextjs/dynamic-routes.md)
 
 ### Vercel
 
 - [How Vercel configures Domain](vercel/how-to-configure-domain.md)
+- [What is DPS workflow](vercel/what-is-DPS-workflow.md)
 
 ### Git
 
