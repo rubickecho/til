@@ -69,6 +69,7 @@
 - [How to judge that a method is a native method](javascript/fn-is-native.md)
 - [Base64 string and object conversion](javascript/base64-string-and-object-conversion.md)
 - [How to judge that the browser's localStorage storage has reached the upper limit](javascript/localStorage-exceeded-the-limit.md)
+- [What is MutationObserver API](javascript/what-is-mutationobserver.md)
 
 ### Monorepo
 
