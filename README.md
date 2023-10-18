@@ -100,6 +100,7 @@
 
 - [How to update the latest commit message in git](git/update-latest-commit-message.md)
 - [How to clone target branch in Git](git/how-to-clone-target-branch.md)
+- [How to update git origin](git/how-to-update-origin.md)
 
 ### Other
 
