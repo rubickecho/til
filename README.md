@@ -107,6 +107,7 @@
 - [What is a Corn expression?](other/what-is-corn-expressions.md)
 - [What is Product `PMF`、`GTM`、`EOM`?](other/what-is-PMF-GTM-EOM.md)
 - [What is google colab？](other/what-is-google-colab.md)
+- [What is click map?](other/what-is-click-map.md)
 
 ### Http
 
