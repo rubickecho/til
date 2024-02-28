@@ -86,6 +86,7 @@
 ### Reading
 
 - [What distinguishes great software engineers?](reading/what-distinguishes-great-software-engineers.md)
+- [React Hooks Migration](reading/translate-react-hooks-migration.md)
 
 ### NextJS
 
