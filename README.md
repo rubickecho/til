@@ -129,3 +129,4 @@
 - [What React is](react/what-react-is.md)
 - [React `Element`、`Component`、`Instance` introduce](react/react-element-component-instance.md)
 - [React list and key](react/react-list-and-key.md)
+- [React render props](react/react-render-props.md)
