@@ -132,3 +132,4 @@
 - [React render props](react/react-render-props.md)
 - [React Refs](react/react-refs.md)
 - [React Event](react/react-event.md)
+- [React HOC](react/react-hoc.md)
